@@ -5,7 +5,7 @@ A Better and improved version of my old port of VSCode for Android (https://www.
 You probably remember **VSCodeAndroid**, my old repo which was a *VSCode Port for android*! Well I had archived that repo and my source code was accidentatly lost (I had permentatly deleted it by accident) and then I forgot about the project.
 
 ## Recently
-On 6/21/2025, I got a DM from @CT5 (profile url just incase; https://hackclub.slack.com/team/U08372TGKMF) on HackClub's Slack (https://hackclub.slack.com) requesting for the source code of my old VSCodeAndroid project (https://www.github.com/Fundiman/VSCodeAndroid). I was about to hand them the source code but then I remembered the Advice my cousin gave me; "Never give your source code to some one else unless it is already public because if you do, they'll steal it and publish it as their own!"! That advice was valuable so I followed it and refused to give it and instead told them that I'm going to make a new and improved version.
+On 6/21/2025, I got a DM from @CT5 (profile url just incase: https://hackclub.slack.com/team/U08372TGKMF) on HackClub's Slack (https://hackclub.slack.com) requesting for the source code of my old VSCodeAndroid project (https://www.github.com/Fundiman/VSCodeAndroid). I was about to hand them the source code but then I remembered the Advice my cousin gave me; "Never give your source code to some one else unless it is already public because if you do, they'll steal it and publish it as their own!"! That advice was valuable so I followed it and refused to give it and instead told them that I'm going to make a new and improved version.
 
 ## Goal Of This Project
 - To fix old bugs
