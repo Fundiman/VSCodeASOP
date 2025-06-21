@@ -16,4 +16,4 @@ On 6/21/2025, I got a message from a developer requesting for the source code of
 
 ---
 
-And that's it! This README is simple and not long like the others.
+That concludes everything I wanted to share. There’s nothing further to add at this point, so we’ve reached the end of the discussion.
